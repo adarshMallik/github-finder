@@ -1,3 +1,0 @@
-This is just a discription of a project 
-
-we used axios ,fetch and hooks like useContext useReducer
